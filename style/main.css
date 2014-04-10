@@ -2,7 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #faf8ef;
+  background: #0088cc;
   color: #776e65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
@@ -117,7 +117,9 @@ hr {
 
 .container {
   width: 500px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  padding: 20px;
+  background: #ffffff; }
 
 @-webkit-keyframes fade-in {
   0% {
